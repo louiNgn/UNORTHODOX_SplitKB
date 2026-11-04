@@ -30129,15 +30129,6 @@
 		(path "/b168b1e5-0ba0-4c68-b2ed-ce5dd75d2590")
 		(sheetname "/")
 		(sheetfile "left.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "30" "37" "1" "2" "4" "5" "6" "7" "9" "10" "11" "12" "14" "15"
-					"16" "17" "19" "20" "39" "40" "3" "23" "28" "18" "13" "38" "8" "36"
-					"21" "22" "24" "25" "26" "27" "29" "35" "31" "32" "34" "33"
-				)
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30747,30 +30738,6 @@
 			(unlocked yes)
 			(layer "Cmts.User")
 			(uuid "2693842f-d95e-42bd-930e-456507af9d75")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(fp_text user "Possible Antenna"
-			(at 8.89 -43.815 0)
-			(unlocked yes)
-			(layer "Cmts.User")
-			(uuid "bc980a50-14a6-4140-af5c-899fc9065217")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(fp_text user "Keep Out"
-			(at 8.89 -45.72 0)
-			(unlocked yes)
-			(layer "Cmts.User")
-			(uuid "1de36531-0de3-4050-8738-94069bf70037")
 			(effects
 				(font
 					(size 1 1)
@@ -31432,38 +31399,6 @@
 			(uuid "945f048b-9ec2-4a3a-ad3f-383abc68ba7c")
 		)
 		(zone
-			(layers "F.Cu" "B.Cu" "F.Paste" "B.Paste")
-			(uuid "b399caad-7446-47dd-9540-1a0357926918")
-			(name "Antenna Copper Keep Out")
-			(hatch full 0.5)
-			(connect_pads
-				(clearance 0)
-			)
-			(min_thickness 0.254)
-			(keepout
-				(tracks not_allowed)
-				(vias not_allowed)
-				(pads not_allowed)
-				(copperpour not_allowed)
-				(footprints allowed)
-			)
-			(placement
-				(enabled no)
-				(sheetname "")
-			)
-			(fill
-				(thermal_gap 0.508)
-				(thermal_bridge_width 0.508)
-				(island_removal_mode 0)
-			)
-			(polygon
-				(pts
-					(xy 200.4 79.259895) (xy 205.1 75.609895) (xy 205.1 71.27) (xy 190.9 71.27) (xy 190.9 75.609895)
-					(xy 195.6 79.259895) (xy 195.6 80.27) (xy 200.4 80.27)
-				)
-			)
-		)
-		(zone
 			(layer "B.CrtYd")
 			(uuid "de4e9c2f-4a9c-469d-a496-9174a7480d57")
 			(name "USB Cable")
@@ -31525,9 +31460,8 @@
 		)
 		(group ""
 			(uuid "3cc8a164-142b-4cc7-8d3c-6ee2e7135ce0")
-			(members "1de36531-0de3-4050-8738-94069bf70037" "2b9371c2-a212-434d-b5d6-a9e73d8cfcc0"
-				"96b9f159-9de9-42dd-bf53-f0af085272d8" "b399caad-7446-47dd-9540-1a0357926918"
-				"b8088d84-f438-4689-ba21-667769d5c697" "bc980a50-14a6-4140-af5c-899fc9065217"
+			(members "2b9371c2-a212-434d-b5d6-a9e73d8cfcc0" "96b9f159-9de9-42dd-bf53-f0af085272d8"
+				"b8088d84-f438-4689-ba21-667769d5c697"
 			)
 		)
 		(group ""
@@ -31541,7 +31475,7 @@
 			)
 		)
 		(group ""
-			(uuid "b2d90488-d826-45df-bce5-c57622905aa7")
+			(uuid "a258b16f-2458-4f8d-b208-bcd84c0ac97e")
 			(members "207ceef8-0f0c-4194-a666-3aa24a550963" "2ae02354-6563-4497-ab21-10455dccc443"
 				"55a33134-a370-4eea-80d2-23a8aaf7a4d2" "85fd2f9b-2944-4720-8c70-5e5cc4fb399f"
 				"95817f6a-b1f2-43b3-b8e7-ff5f91a575de" "cc20b174-a38f-48e5-b9fd-290c44e7bdc5"
@@ -31559,7 +31493,7 @@
 			)
 		)
 		(group ""
-			(uuid "a258b16f-2458-4f8d-b208-bcd84c0ac97e")
+			(uuid "b2d90488-d826-45df-bce5-c57622905aa7")
 			(members "2693842f-d95e-42bd-930e-456507af9d75" "2d8d6f43-0176-47df-b3d3-b39b93d9fdc5"
 				"37f2061e-e360-4503-b128-5c4501b82b38" "3850632c-ecd8-497c-ad95-b1ca5a66a543"
 				"5ccd1367-8b47-4132-b965-fb595f9c1342" "6a6e5d55-2e60-4f11-904a-07a800a335be"
@@ -37862,7 +37796,7 @@
 		(layer "Dwgs.User")
 		(uuid "60b49b46-a2fa-427c-9bdd-10eb76f8fe0e")
 		(pts
-			(xy 180.975 28.575) (xy 210.54 27.564543)
+			(xy 180.975 28.575) (xy 209.54 28.52)
 		)
 		(height -5.895)
 		(orientation 0)
@@ -37883,48 +37817,10 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "29.565"
-			(at 195.7575 20.88 0)
+		(gr_text "28.565"
+			(at 195.2575 20.88 0)
 			(layer "Dwgs.User")
 			(uuid "60b49b46-a2fa-427c-9bdd-10eb76f8fe0e")
-			(effects
-				(font
-					(size 1.5 1.5)
-					(thickness 0.3)
-				)
-			)
-		)
-	)
-	(dimension
-		(type orthogonal)
-		(layer "Dwgs.User")
-		(uuid "ac15400d-05b0-4f90-a874-9371492353b4")
-		(pts
-			(xy 180.975 28.575) (xy 210.54 27.564543)
-		)
-		(height 3.115)
-		(orientation 1)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.2)
-			(arrow_length 1.27)
-			(text_position_mode 2)
-			(arrow_direction inward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "1.0105"
-			(at 185.795637 28.513939 90)
-			(layer "Dwgs.User")
-			(uuid "ac15400d-05b0-4f90-a874-9371492353b4")
 			(effects
 				(font
 					(size 1.5 1.5)
