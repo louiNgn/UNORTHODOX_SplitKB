@@ -7,3 +7,6 @@ A cursed keyboard design that appreciates well-tuned stabilizers and keycap labe
 <img width="1365" height="782" alt="Screenshot 2026-11-09 031350" src="https://github.com/user-attachments/assets/16e0b550-5a3e-4ae5-b3c7-06c43badd4a7" />
 <img width="1162" height="601" alt="Screenshot 2026-11-09 023940" src="https://github.com/user-attachments/assets/f095cd29-768f-4c1a-8731-75e7a602bf20" />
 <img width="1155" height="692" alt="Screenshot 2026-11-09 024248" src="https://github.com/user-attachments/assets/3195feb0-e83b-49de-8844-30f29701d201" />
+
+
+FIRMWARE IS TO BE ADDED ONCE I GET MY HANDS ON THE KEYBOARD, AS I DO NOT HAVE EXPERIENCE WITH DEVVING PI PICO INTERCONNECT!
