@@ -2950,12 +2950,6 @@
 		(uuid "0f3a374d-9cbf-49f3-ac93-1244a2af8f83")
 	)
 	(junction
-		(at 232.41 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0f74f8b3-08bd-4651-ab94-328b2c5db386")
-	)
-	(junction
 		(at 237.49 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3070,6 +3064,12 @@
 		(uuid "69be9101-96e1-4edb-9ea3-a18475a5e4b4")
 	)
 	(junction
+		(at 179.07 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6ac56285-7451-413c-b418-3ccaf2bdc6a2")
+	)
+	(junction
 		(at 190.5 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3080,12 +3080,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "70d60731-c2aa-43c8-bb97-7967b7e8af80")
-	)
-	(junction
-		(at 173.99 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "71b7698c-2c8b-4fe5-b2ad-8e2ed996e1e4")
 	)
 	(junction
 		(at 241.3 74.93)
@@ -3172,12 +3166,6 @@
 		(uuid "9624ef3e-4190-45b0-a5fa-d5e9a398a5cb")
 	)
 	(junction
-		(at 177.8 149.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9757ce5e-07f8-4278-9b84-826f8aa2b4de")
-	)
-	(junction
 		(at 223.52 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3188,6 +3176,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9b1fc5c4-8b14-49b9-9160-eb39f56affef")
+	)
+	(junction
+		(at 173.99 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9cbf31cc-3f43-4176-aa8b-da8ddaaaad3a")
 	)
 	(junction
 		(at 190.5 116.84)
@@ -3208,6 +3202,12 @@
 		(uuid "aeaf0c27-b2d3-4875-b42b-3cd1db39c9a9")
 	)
 	(junction
+		(at 201.93 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2918511-d666-4bdd-a702-15ff885ba21a")
+	)
+	(junction
 		(at 246.38 149.86)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3224,6 +3224,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bb4d8e56-b714-4d6f-89b8-f7d2bfe089c8")
+	)
+	(junction
+		(at 232.41 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c9b57620-8dad-4c59-980a-2e95040a017b")
 	)
 	(junction
 		(at 212.09 87.63)
@@ -3292,12 +3298,6 @@
 		(uuid "f393c728-874a-43e9-96cc-dc209746488a")
 	)
 	(junction
-		(at 201.93 149.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fb05fefe-37f3-4978-aa31-350f1de320c6")
-	)
-	(junction
 		(at 86.36 179.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3310,16 +3310,16 @@
 		(uuid "fda5bdae-6eeb-446d-8f5b-9c8cbe7f4de2")
 	)
 	(no_connect
+		(at 72.39 71.12)
+		(uuid "03cc948c-8cec-47a9-9847-948ccb895e27")
+	)
+	(no_connect
 		(at 72.39 81.28)
 		(uuid "05114013-341e-427f-941d-355742e0d998")
 	)
 	(no_connect
-		(at 26.67 66.04)
-		(uuid "21d0f404-194d-407d-99be-d59d0286a6e7")
-	)
-	(no_connect
-		(at 26.67 63.5)
-		(uuid "3fa6e1bd-cd6b-4bc3-85e2-f2c83cd0b951")
+		(at 26.67 53.34)
+		(uuid "21b942d4-b2e9-4ea8-beae-ea9d3afba36d")
 	)
 	(no_connect
 		(at 101.6 171.45)
@@ -3334,12 +3334,20 @@
 		(uuid "5c6712cd-1453-4878-a756-da204489da36")
 	)
 	(no_connect
-		(at 26.67 53.34)
-		(uuid "6cb62f35-49d1-4f9f-93d7-9ed477af1487")
+		(at 26.67 50.8)
+		(uuid "5cf2a7f8-d8fe-4174-91e4-ddd9b15bb67c")
+	)
+	(no_connect
+		(at 72.39 68.58)
+		(uuid "7ab5fea4-b734-4a18-adcf-80005c7c7e53")
 	)
 	(no_connect
 		(at 72.39 91.44)
 		(uuid "b54ae4c2-aa08-45d8-a64f-49064d0d60af")
+	)
+	(no_connect
+		(at 72.39 73.66)
+		(uuid "bed38a95-74b5-4565-908e-5546bee8295b")
 	)
 	(no_connect
 		(at 49.53 35.56)
@@ -3356,14 +3364,6 @@
 	(no_connect
 		(at 72.39 88.9)
 		(uuid "d850f87b-fccf-4ee5-900c-ef366f5b3b9f")
-	)
-	(no_connect
-		(at 26.67 50.8)
-		(uuid "d9facbfa-cf7e-41e9-863f-d20bff4cf915")
-	)
-	(no_connect
-		(at 26.67 73.66)
-		(uuid "f35e661d-0e1b-490e-8f6f-5be728c05f29")
 	)
 	(no_connect
 		(at 72.39 96.52)
@@ -3388,16 +3388,6 @@
 			(type default)
 		)
 		(uuid "02cc19df-542a-455b-bca3-ae51b2248b54")
-	)
-	(wire
-		(pts
-			(xy 173.99 137.16) (xy 172.72 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "034095dd-2187-4809-b579-99cb4c8b048a")
 	)
 	(wire
 		(pts
@@ -3481,7 +3471,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 149.86) (xy 177.8 149.86)
+			(xy 146.05 149.86) (xy 179.07 149.86)
 		)
 		(stroke
 			(width 0)
@@ -3801,16 +3791,6 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 149.86) (xy 201.93 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83807af6-9626-48b4-9f55-2063c34d3c70")
-	)
-	(wire
-		(pts
 			(xy 212.09 109.22) (xy 237.49 109.22)
 		)
 		(stroke
@@ -4121,6 +4101,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 149.86) (xy 201.93 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ceecf00b-e1cf-4d24-8ac9-272b9b25aa25")
+	)
+	(wire
+		(pts
 			(xy 195.58 109.22) (xy 212.09 109.22)
 		)
 		(stroke
@@ -4409,6 +4399,16 @@
 		)
 		(uuid "2f4f256a-feb3-4898-abe8-64ee80d6abac")
 	)
+	(label "ROT_B"
+		(at 72.39 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "36d31162-e9b7-4299-9945-ff39adf06d30")
+	)
 	(label "ROT_SW"
 		(at 49.53 152.4 0)
 		(effects
@@ -4420,7 +4420,7 @@
 		(uuid "476a374d-beb7-4f6a-a9c8-652bce05748f")
 	)
 	(label "SDA"
-		(at 26.67 68.58 180)
+		(at 26.67 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4428,6 +4428,16 @@
 			(justify right bottom)
 		)
 		(uuid "4a6771f5-6b60-48a0-a561-4e8f20e6b5c4")
+	)
+	(label "COL0"
+		(at 72.39 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4f12d80e-fcce-40c7-9099-f97edbab3b3c")
 	)
 	(label "COL0"
 		(at 124.46 46.99 180)
@@ -4459,6 +4469,16 @@
 		)
 		(uuid "5d6d9e7a-3a36-4b82-8297-45597b5159a1")
 	)
+	(label "ROW1"
+		(at 26.67 83.82 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5fdbe67b-6ac8-41e4-933a-41e963b3eea8")
+	)
 	(label "COL1"
 		(at 140.97 46.99 180)
 		(effects
@@ -4489,6 +4509,16 @@
 		)
 		(uuid "796379a0-9a05-4306-b725-bebdaae3e950")
 	)
+	(label "ROW4"
+		(at 26.67 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7a51d93b-9f61-469c-8c91-a850c2f1933a")
+	)
 	(label "ROT_B"
 		(at 34.29 157.48 180)
 		(effects
@@ -4498,6 +4528,16 @@
 			(justify right bottom)
 		)
 		(uuid "7b4c4767-9a75-45dc-9278-8b28f4933674")
+	)
+	(label "COL3"
+		(at 26.67 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7b74929c-d4aa-4a60-9149-8fa62725637f")
 	)
 	(label "SCL"
 		(at 43.18 132.08 180)
@@ -4510,7 +4550,7 @@
 		(uuid "7b82e7cb-37a9-488e-b3c3-bb503215d3e9")
 	)
 	(label "SCL"
-		(at 26.67 71.12 180)
+		(at 26.67 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4518,6 +4558,16 @@
 			(justify right bottom)
 		)
 		(uuid "874f4e01-fcca-4e9e-b097-91f799b1474c")
+	)
+	(label "ROW2"
+		(at 26.67 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "942688aa-1c51-482b-91dd-550e4bdc7201")
 	)
 	(label "TX_LEFT"
 		(at 105.41 154.94 0)
@@ -4528,6 +4578,16 @@
 			(justify left bottom)
 		)
 		(uuid "a2fee588-25c8-49e4-9b97-dab27fe73685")
+	)
+	(label "COL5"
+		(at 26.67 68.58 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a447e643-5fbd-433c-af9e-0c2c815234e6")
 	)
 	(label "COL5"
 		(at 207.01 46.99 180)
@@ -4549,6 +4609,26 @@
 		)
 		(uuid "aacca109-7c52-43e8-92e2-c49c86b76f3e")
 	)
+	(label "COL6"
+		(at 26.67 66.04 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ab38db53-e934-4c62-a024-b73bf173541b")
+	)
+	(label "ROW0"
+		(at 26.67 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b0f6ec14-0afb-4ac6-b9d5-fd6580d9c462")
+	)
 	(label "VSYS"
 		(at 101.6 140.97 0)
 		(effects
@@ -4558,6 +4638,26 @@
 			(justify left bottom)
 		)
 		(uuid "b2deeeeb-a375-4ecd-bad5-0b93fe402d01")
+	)
+	(label "COL2"
+		(at 26.67 76.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b3e1ba06-cc95-4c95-a51e-66b05d5fd880")
+	)
+	(label "COL4"
+		(at 26.67 71.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b7fbea58-10d8-47b2-a627-b99324f2427b")
 	)
 	(label "RX_LEFT"
 		(at 26.67 58.42 180)
@@ -4579,6 +4679,16 @@
 		)
 		(uuid "be88e254-0cde-4272-9bd5-6efc7e5a9876")
 	)
+	(label "COL7"
+		(at 26.67 63.5 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c35b2e2b-9fff-46b7-8da8-4f220c97d74a")
+	)
 	(label "ROW2"
 		(at 271.78 109.22 0)
 		(effects
@@ -4599,13 +4709,33 @@
 		)
 		(uuid "d94788df-7bcd-4cbc-a0a4-83f42975fd1e")
 	)
-	(label "ROT_SW"
-		(at 26.67 96.52 180)
+	(label "ROT_A"
+		(at 72.39 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "da18c903-eb4c-477d-8a29-074b7919c3a5")
+	)
+	(label "COL1"
+		(at 26.67 73.66 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
+		)
+		(uuid "e017f5e3-e6b1-4508-a6f6-d2ae3ba87407")
+	)
+	(label "ROT_SW"
+		(at 72.39 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
 		)
 		(uuid "e0fb6538-0ba3-4efc-90dc-cb2728e9d7d1")
 	)
@@ -4618,6 +4748,16 @@
 			(justify right bottom)
 		)
 		(uuid "f006b616-e080-4542-97ca-6bf47674f589")
+	)
+	(label "ROW3"
+		(at 26.67 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f14e46b4-67bd-495f-b9b8-c455b770446d")
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
@@ -4650,7 +4790,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 160.02 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -4788,7 +4928,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b0479c6-fafa-4122-a6bc-252ebc1a0523")
-		(property "Reference" "SW38"
+		(property "Reference" "SW0"
 			(at 41.91 144.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4859,7 +4999,7 @@
 		(instances
 			(project "right"
 				(path "/15507785-6025-46a7-beed-3c861043b98e"
-					(reference "SW38")
+					(reference "SW0")
 					(unit 1)
 				)
 			)
@@ -4899,7 +5039,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 167.005 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -5003,7 +5143,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 250.825 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -5105,7 +5245,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u"
 			(at 199.39 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -5187,7 +5327,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 250.825 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -5291,7 +5431,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 183.515 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -5363,7 +5503,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 175.26 139.7 0)
+		(at 176.53 139.7 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5374,7 +5514,7 @@
 		(fields_autoplaced yes)
 		(uuid "1a167a28-e575-41e0-8559-066d5db8ac69")
 		(property "Reference" "SW33"
-			(at 175.26 132.08 0)
+			(at 176.53 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5384,7 +5524,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 175.26 134.62 0)
+			(at 176.53 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5393,8 +5533,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 175.26 139.7 0)
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u"
+			(at 176.53 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5405,7 +5545,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 175.26 139.7 0)
+			(at 176.53 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5416,7 +5556,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 175.26 139.7 0)
+			(at 176.53 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5561,7 +5701,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 127 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -5643,7 +5783,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 234.315 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -5745,7 +5885,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 193.04 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -5795,7 +5935,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 234.95 99.06 0)
+		(at 127 119.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5805,7 +5945,7 @@
 		(dnp no)
 		(uuid "2c38972d-f147-491a-ac78-8f4a0e6b3178")
 		(property "Reference" "SW24"
-			(at 234.95 90.17 0)
+			(at 127 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5815,7 +5955,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 234.95 92.71 0)
+			(at 127 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5824,8 +5964,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 234.95 99.06 0)
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+			(at 127 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5836,7 +5976,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 234.95 99.06 0)
+			(at 127 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5847,7 +5987,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 234.95 99.06 0)
+			(at 127 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5904,7 +6044,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 260.35 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -5984,7 +6124,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 160.02 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -6064,7 +6204,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 209.55 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6146,7 +6286,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 183.515 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -6250,7 +6390,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 133.985 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -6322,7 +6462,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 177.8 146.05 90)
+		(at 179.07 146.05 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6333,7 +6473,7 @@
 		(fields_autoplaced yes)
 		(uuid "3d2f2140-a78f-4a8d-91a1-117573924f01")
 		(property "Reference" "D33"
-			(at 180.34 144.7799 90)
+			(at 181.61 144.7799 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6344,7 +6484,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 180.34 147.3199 90)
+			(at 181.61 147.3199 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6354,8 +6494,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 182.245 146.05 0)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 183.515 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6366,7 +6506,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
-			(at 177.8 146.05 0)
+			(at 179.07 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6377,7 +6517,7 @@
 			)
 		)
 		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
-			(at 177.8 146.05 0)
+			(at 179.07 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6388,7 +6528,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 177.8 146.05 0)
+			(at 179.07 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6399,7 +6539,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 177.8 146.05 0)
+			(at 179.07 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6456,7 +6596,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 193.04 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -6614,7 +6754,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 143.51 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -6693,7 +6833,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 193.04 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -6773,7 +6913,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 227.33 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -6933,7 +7073,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 241.935 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -7035,7 +7175,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 243.84 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -7117,7 +7257,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 267.335 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -7221,7 +7361,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 150.495 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -7323,7 +7463,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 209.55 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -7403,7 +7543,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 243.84 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -7485,7 +7625,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 206.375 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -7783,7 +7923,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 143.51 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -7865,7 +8005,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 233.045 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -7967,7 +8107,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 127 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8127,7 +8267,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 250.825 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -8228,7 +8368,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 143.51 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -8307,7 +8447,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 127 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -8387,7 +8527,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 160.02 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8467,7 +8607,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 176.53 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8627,7 +8767,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 233.045 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -8731,7 +8871,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 133.985 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -8833,7 +8973,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 160.02 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -8913,7 +9053,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 226.06 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8995,7 +9135,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 183.515 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -9099,7 +9239,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 150.495 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -9203,7 +9343,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 200.025 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -9307,7 +9447,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 200.025 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -9411,7 +9551,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 200.025 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -9513,7 +9653,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.25u"
 			(at 217.17 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -9595,7 +9735,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 133.985 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -9697,7 +9837,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 226.06 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -9777,7 +9917,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.00u"
 			(at 243.84 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -9857,7 +9997,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 260.35 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -9939,7 +10079,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 150.495 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -10043,7 +10183,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 259.715 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -10147,7 +10287,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 167.005 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -10248,7 +10388,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 176.53 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -10330,7 +10470,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 216.535 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -10432,7 +10572,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.75u"
 			(at 143.51 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -10512,7 +10652,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 143.51 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -10594,7 +10734,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 224.155 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -10698,7 +10838,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 183.515 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -10927,7 +11067,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 267.335 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -11029,7 +11169,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 176.53 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -11109,7 +11249,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 176.53 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -11191,7 +11331,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 216.535 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -11295,7 +11435,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 216.535 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -11396,7 +11536,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 209.55 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -11478,7 +11618,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 167.005 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -11580,7 +11720,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.00u"
 			(at 252.73 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -11662,7 +11802,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 167.005 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -11764,7 +11904,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 193.04 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -11814,7 +11954,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 127 119.38 0)
+		(at 234.95 99.06 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11825,7 +11965,7 @@
 		(fields_autoplaced yes)
 		(uuid "edae5e97-fedb-4a60-9358-e1bd90e38151")
 		(property "Reference" "SW23"
-			(at 127 111.76 0)
+			(at 234.95 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11835,7 +11975,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 127 114.3 0)
+			(at 234.95 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11844,8 +11984,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 127 119.38 0)
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.75u"
+			(at 234.95 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11856,7 +11996,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 119.38 0)
+			(at 234.95 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11867,7 +12007,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 127 119.38 0)
+			(at 234.95 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11926,7 +12066,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 200.025 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -12030,7 +12170,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 133.985 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -12134,7 +12274,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 150.495 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -12238,7 +12378,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 150.495 83.82 0)
 			(hide yes)
 			(show_name no)
